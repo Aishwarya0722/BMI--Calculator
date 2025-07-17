@@ -38,11 +38,5 @@ BMI = weight (kg) / (height in meters)^2
 
 ## 📝 Author
 
-**Your Name**  
+**Satti Sai Aishwarya**  
 Python Programming Intern at [Oasis Infobyte](https://www.oasisinfobyte.com/)
-
-## 🔗 Hashtags for Sharing
-
-```
-#oasisinfobyte #oasisinfobytefamily #internship #python
-```
